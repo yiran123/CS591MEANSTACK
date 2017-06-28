@@ -15,7 +15,10 @@ a {
 
 h1 {
   display: block;
-  color: red;
+
+  color: rgba(0,0,0,.6);
+  text-align: center;
+  text-shadow: rgba(0,0,0,.2) 2px 6px 5px,rgba(255,255,255,.4) 0 -4px 30px;
   clear: both;
 }
 
